@@ -1,106 +1,42 @@
----
+Pynuke:
+  description: "Pynuke is a powerful Discord bot designed for total server disruption. It has the capability to create multiple channels, flood them with spam, change the server’s identity, and perform a variety of chaotic actions—all at once."
 
-**🔥 Pynuke - Discord Server Nuke Bot 🔥**
+  features:
+    - "Create 100 Channels: Pynuke can create 100 random text channels with disruptive and offensive names."
+    - "Flood Channels with Spam: Every channel created will receive 200 random messages."
+    - "DM Spam: The bot sends 500 DMs to each member with spam messages."
+    - "Server Name & Icon Change: Pynuke updates the server name and icon to a custom image."
+    - "Random Role Assignment: Pynuke randomly assigns roles to all members."
 
-Pynuke is a powerful Discord bot designed for total server disruption. It has the capability to create multiple channels, flood them with spam, change the server’s identity, and perform a variety of chaotic actions—all at once.
+  how_it_works:
+    - "Server ID: The script will prompt for the server ID to nuke."
+    - "Spam Messages: You provide a list of spam messages for flooded channels and DMs."
+    - "Server Image: Place your custom server image in the image folder for the bot to update the server icon."
 
----
+  warning:
+    - "Use at your own risk and only on servers where you have permission."
+    - "Unauthorized use may result in banning or legal consequences."
 
-**🚀 Features**
+  prerequisites:
+    - "Python 3.x"
+    - "discord.py library"
+    - "colorama library"
 
-- 💬 **Create 100 Channels**: Pynuke can create 100 random text channels with disruptive and offensive names to cause chaos across your server. Each channel will be used to spread confusion and disorder.
+  installation:
+    - "Clone the repository or download the script."
+    - "Install the required dependencies by running: pip install discord.py colorama"
 
-- ⚡ **Flood Channels with Spam**: Every channel created by Pynuke will receive 200 random messages, which can include anything from random text to commands or pings. This ensures maximum disruption and irritation for everyone involved.
+  usage:
+    - "Run the script after setting up your bot token."
+    - "Configure the script with your bot token, server ID, and custom messages."
+    - "Start the nuke to send DMs, create channels, and spam messages."
 
-- 📩 **DM Spam**: The bot will send 500 DMs to each member, using random spam messages, making sure no one is left untouched.
+  legal_notice:
+    - "For educational purposes only."
+    - "Do not use on servers without permission."
+    - "May violate Discord's Terms of Service."
 
-- 🔧 **Server Name & Icon Change**: Pynuke will change the server's name to "FAT RATTER SERVER" and update the server icon to a custom image, further altering the identity of the server.
-
-- 🎭 **Random Role Assignment**: Pynuke randomly assigns roles to all members of the server, ensuring a confusing and chaotic experience for the server's members.
-
----
-
-**🚨 How It Works**
-
-- 🏙️ **Server ID**: The script will prompt for the server ID of the server you want to nuke.
-
-- 💌 **Spam Messages**: You provide a list of spam messages that will be used in the flooded channels and DMs.
-
-- 🖼️ **Server Image**: Drop your custom server image (such as a logo or random image) into the `image` folder, and the bot will use it to change the server's icon.
-
----
-
-**⚠️ Warning**
-
-This bot is designed to completely disrupt a Discord server. **Use at your own risk** and only on servers where you have permission. Unauthorized usage could lead to banning or legal consequences.
-
----
-
-**💡 Prerequisites**
-
-- Python 3.x
-- `discord.py` library
-- `colorama` library
-
----
-
-**⚙️ Installation**
-
-1. Clone the repository or download the script.
-2. Install the required dependencies by running the following command:
-
-   `pip install discord.py colorama`
-
----
-
-**🚀 Usage**
-
-- **Run the script**:  
-  After setting up your bot token, simply run the script to start the process.
-
-- **Configure the script**:  
-  During setup, you'll be prompted to input:
-  - 🔑 Bot token
-  - 🏙️ Server ID to nuke
-  - 💌 Custom messages, channels, and roles
-
-- **Start the nuke**:  
-  The bot will begin by sending mass DMs, creating channels, spamming messages, and managing roles in the server.
-
----
-
-**💡 Example Setup**
-
-```
-Enter bot token: <bot_token>
-Enter server ID: <server_id>
-Enter message 1: "Welcome to chaos!"
-Enter channel name: "spam-channel"
-Enter role name: "raider"
-```
-
----
-
-**⚖️ Legal Notice**
-
-- ⚠️ For educational purposes only.
-- 🚫 Do not use on servers without permission.
-- ⚠️ This script may violate Discord's Terms of Service. Use responsibly.
-
----
-
-**📝 License**
-
-MIT License - see LICENSE for details.
-
----
-
-**❤️ Support**
-
-If you encounter any issues, feel free to open an issue in the GitHub repository. Let's make Pynuke even better!
-
----
-
-**🔧 Updates**
-
-- 🚀 **Better Nuking!** Improved efficiency in server disruption and better handling of rate limits.
+  license: "MIT License - see LICENSE for details."
+  support: "Open an issue in the GitHub repository for support."
+  update:
+    - "Better Nuking! Improved efficiency and better rate limit handling."
