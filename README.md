@@ -18,7 +18,7 @@ Pynuke is a **powerful Discord bot** that allows you to test server defenses by 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Pynuke.git
+   git clone https://github.com/XDLIN57/Pynuke.git
    cd Pynuke
 Set up a virtual environment (optional but recommended):
 
