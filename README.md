@@ -22,7 +22,7 @@ Before using Pynuke, make sure you have the required libraries and a Discord bot
 
 1. **Install required libraries**:
    ```bash
-   pip install discord.py colorama
+   pip install discord.py pystyle
    ```
 
 2. **Set up your Discord bot**:
