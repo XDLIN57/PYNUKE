@@ -36,19 +36,21 @@ Run the script: After setting up your bot token, simply run the script to start 
 
 Configure the script: During setup, you'll be prompted to input:
 
+
 🔑 Bot token
 🏙️ Server ID to nuke
+
 💌 Custom messages, channels, and roles
+
 Start the nuke: The bot will begin by sending mass DMs, creating channels, spamming messages, and managing roles in the server. 🌪️
 
 💡 Example Setup
-bash
-Copier le code
 Enter bot token: <bot_token> 💻
 Enter server ID: <server_id> 🏙️
 Enter message 1: "Welcome to chaos!" 🔥
 Enter channel name: "spam-channel" 📢
 Enter role name: "raider" ⚔️
+
 ⚖️ Legal Notice
 ⚠️ For educational purposes only.
 🚫 Do not use on servers without permission.
