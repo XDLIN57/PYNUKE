@@ -1,42 +1,64 @@
-Pynuke:
-  description: "Pynuke is a powerful Discord bot designed for total server disruption. It has the capability to create multiple channels, flood them with spam, change the server’s identity, and perform a variety of chaotic actions—all at once."
+# 🔥 **Pynuke - Discord Server Nuke Bot** 🔥
 
-  features:
-    - "Create 100 Channels: Pynuke can create 100 random text channels with disruptive and offensive names."
-    - "Flood Channels with Spam: Every channel created will receive 200 random messages."
-    - "DM Spam: The bot sends 500 DMs to each member with spam messages."
-    - "Server Name & Icon Change: Pynuke updates the server name and icon to a custom image."
-    - "Random Role Assignment: Pynuke randomly assigns roles to all members."
+Pynuke is a **powerful Discord bot** that allows you to test server defenses by **automating chaotic actions** such as **mass DM spamming**, **channel creation**, and **role management**. Fully customizable and easy to use!
 
-  how_it_works:
-    - "Server ID: The script will prompt for the server ID to nuke."
-    - "Spam Messages: You provide a list of spam messages for flooded channels and DMs."
-    - "Server Image: Place your custom server image in the image folder for the bot to update the server icon."
+---
 
-  warning:
-    - "Use at your own risk and only on servers where you have permission."
-    - "Unauthorized use may result in banning or legal consequences."
+## 🚀 **Features**
 
-  prerequisites:
-    - "Python 3.x"
-    - "discord.py library"
-    - "colorama library"
+- 💬 **Mass DM Spamming**: Send custom messages to up to **50 users** at once.
+- 🔧 **Channel & Role Creation**: Automatically create multiple channels and roles to disrupt the server.
+- ⚡ **Message Spamming**: Spam custom messages in various channels for maximum disruption.
+- ⚙️ **Customizable**: Personalize messages, channel names, and roles for full control.
+- ⏱️ **Rate Limiting**: Handles Discord rate limits smoothly for efficient operation.
 
-  installation:
-    - "Clone the repository or download the script."
-    - "Install the required dependencies by running: pip install discord.py colorama"
+---
 
-  usage:
-    - "Run the script after setting up your bot token."
-    - "Configure the script with your bot token, server ID, and custom messages."
-    - "Start the nuke to send DMs, create channels, and spam messages."
+## 🛠️ **Installation**
 
-  legal_notice:
-    - "For educational purposes only."
-    - "Do not use on servers without permission."
-    - "May violate Discord's Terms of Service."
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/Pynuke.git
+   cd Pynuke
+Set up a virtual environment (optional but recommended):
 
-  license: "MIT License - see LICENSE for details."
-  support: "Open an issue in the GitHub repository for support."
-  update:
-    - "Better Nuking! Improved efficiency and better rate limit handling."
+bash
+Copier le code
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+Install required libraries:
+
+bash
+Copier le code
+pip install discord.py colorama
+🚀 Usage
+Run the script: After setting up your bot token, simply run the script to start the process.
+
+Configure the script: During setup, you'll be prompted to input:
+
+🔑 Bot token
+🏙️ Server ID to nuke
+💌 Custom messages, channels, and roles
+Start the nuke: The bot will begin by sending mass DMs, creating channels, spamming messages, and managing roles in the server. 🌪️
+
+💡 Example Setup
+bash
+Copier le code
+Enter bot token: <bot_token> 💻
+Enter server ID: <server_id> 🏙️
+Enter message 1: "Welcome to chaos!" 🔥
+Enter channel name: "spam-channel" 📢
+Enter role name: "raider" ⚔️
+⚖️ Legal Notice
+⚠️ For educational purposes only.
+🚫 Do not use on servers without permission.
+⚠️ This script may violate Discord's Terms of Service. Use responsibly.
+📝 License
+MIT License - see LICENSE for details.
+
+❤️ Support
+If you encounter any issues, feel free to open an issue in the GitHub repository. Let's make Pynuke even better! 💪
+
+🚨 Update
+🚀 Better Nuking!: Improved efficiency and better rate limit handling for more effective server disruption.
+markdown
