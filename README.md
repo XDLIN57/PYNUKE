@@ -1,11 +1,8 @@
-```markdown
 # 🔥 **Pynuke - Discord Server Nuke Bot** 🔥
 
 Pynuke is a **powerful Discord bot** designed to test server defenses and perform **automated disruptive actions**. Whether you want to test how your server handles chaos or just explore automation, Pynuke can help you **flood servers with spam**, **create multiple channels and roles**, and **send mass DMs** to all users in the server.
 
 Fully customizable, Pynuke gives you complete control over the messages, channels, and roles it creates. **Be careful**—this bot is designed to disrupt and take over servers, so **use it responsibly** and only where you have permission.
-
-**Note:** The bot will need **admin permissions** to perform all the actions effectively.
 
 ---
 
@@ -72,6 +69,3 @@ If you encounter any issues, feel free to open an issue in the GitHub repository
 ## 🚨 **Update**
 
 - 🚀 **Better Nuking!**: Improved efficiency and better rate limit handling for more effective server disruption.
-```
-
-Now it mentions that the bot will need admin permissions for all actions to work properly. Let me know if you need any other changes!
