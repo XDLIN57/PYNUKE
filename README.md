@@ -1,6 +1,4 @@
-Sure! Here's the updated `README.md` with a nice description about the script, without the Git clone section:
 
-```markdown
 # 🔥 **Pynuke - Discord Server Nuke Bot** 🔥
 
 Pynuke is a **powerful Discord bot** designed to test server defenses and perform **automated disruptive actions**. Whether you want to test how your server handles chaos or just explore automation, Pynuke can help you **flood servers with spam**, **create multiple channels and roles**, and **send mass DMs** to all users in the server.
@@ -72,6 +70,3 @@ If you encounter any issues, feel free to open an issue in the GitHub repository
 ## 🚨 **Update**
 
 - 🚀 **Better Nuking!**: Improved efficiency and better rate limit handling for more effective server disruption.
-```
-
-This version includes a nice description at the beginning without the Git clone section. Let me know if you need further adjustments!
