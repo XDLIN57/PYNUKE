@@ -1,10 +1,7 @@
-Here’s a more polished and improved version of the `README.md`:
 
----
+# Pynuke
 
-# Ultimate Nuke Bot
-
-A **chaotic** and **powerful** Discord bot built to completely disrupt servers. This bot can create channels, flood them with spam, change the server name and icon, and more, giving you total control over the destruction process.
+A **chaotic** and **powerful** Discord bot built to completely disrupt servers. Pynuke can create channels, flood them with spam, change the server name and icon, and more, giving you total control over the destruction process.
 
 ---
 
@@ -52,7 +49,7 @@ This bot is designed for **extreme disruption**. It should only be used on serve
    - After setting up your bot token, run the script with:
    
    ```bash
-   python ultimate_nuke_bot.py
+   python pynuke.py
    ```
 
 3. **Follow the Prompts**:
@@ -61,13 +58,13 @@ This bot is designed for **extreme disruption**. It should only be used on serve
    - Drop a custom **server image** into the `image` folder and press Enter.
 
 4. **Unleash the Chaos**:
-   - The bot will automatically create channels, flood them with messages, spam DMs, change server details, and assign random roles.
+   - Pynuke will automatically create channels, flood them with messages, spam DMs, change server details, and assign random roles.
 
 ---
 
 ## 🛑 Disclaimer
 
-This bot is **extremely destructive** and intended for **educational purposes only**. Use it responsibly, and only on servers where you have explicit permission. **Unauthorized use could result in severe consequences.**
+Pynuke is **extremely destructive** and intended for **educational purposes only**. Use it responsibly, and only on servers where you have explicit permission. **Unauthorized use could result in severe consequences.**
 
 ---
 
@@ -76,5 +73,3 @@ This bot is **extremely destructive** and intended for **educational purposes on
 This project is licensed for **educational and experimental purposes**. You are responsible for any actions taken while using this bot.
 
 ---
-
-Let me know if this works for you!
