@@ -1,33 +1,4 @@
-### 1. **Blue Text (Links or Code Highlighting)**:
-   - In Markdown, text that looks blue could be a link or inline code. For example:
-     - `https://github.com/yourusername/Pynuke.git` → This will appear as a clickable blue link.
-     - `python -m venv venv` → This could be displayed as inline code in a different font.
 
-   To prevent confusion, ensure that any URL or code block is formatted properly:
-   - **For links**: Make sure links are properly formatted like this:
-     ```markdown
-     [Text here](http://link.com)
-     ```
-   - **For code**: Enclose your code in backticks:
-     - Inline code: `python -m venv venv`
-     - Block code:
-       ```bash
-       python -m venv venv
-       ```
-
-### 2. **Unexpected Words (like "axetrix")**:
-   If you're seeing random words like "axetrix" that you didn't write, this could be a result of:
-   - **Autocorrect issues**: Sometimes text gets misinterpreted or auto-corrected if you copied/pasted from a different source.
-   - **Hidden characters**: If you've copied the README from a different text editor or source, there might be invisible characters causing rendering problems.
-
-### Solution to Fix:
-
-- **Clean Up the Markdown**: Double-check and ensure all syntax is correct and doesn't have any hidden formatting.
-- **Use Raw Text Editors**: Open the README in a raw text editor (e.g., Notepad++ or VS Code) to make sure there are no strange characters or extra formatting.
-
----
-
-Here’s a refined version of the README without the issues you mentioned:
 
 ```markdown
 # 🔥 **Pynuke - Discord Server Nuke Bot** 🔥
