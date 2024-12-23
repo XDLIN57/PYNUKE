@@ -1,4 +1,4 @@
-```markdown
+```
 # 🔥 Pynuke - Discord Server Nuke Bot 🔥
 
 Pynuke is a **powerful Discord bot** designed for **total server disruption**. It has the capability to create multiple channels, flood them with spam, change the server’s identity, and perform a variety of chaotic actions—all at once.
