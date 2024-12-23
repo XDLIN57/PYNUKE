@@ -68,6 +68,6 @@ pip install discord.py colorama
   
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This script is intended for educational purposes only. Using it to target servers without permission is against Discord’s Terms of Service. Always seek permission before using this bot on a server.
