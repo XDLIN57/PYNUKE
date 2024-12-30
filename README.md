@@ -25,8 +25,7 @@ Before using Pynuke, make sure you have the required libraries and a Discord bot
    pip install discord.py pystyle
    ```
 
-2. **Set up your Discord bot**:
-   - If you don’t already have a bot token, follow the instructions [here](https://discordpy.readthedocs.io/en/stable/discord.html) to create a bot and get your token.
+2. **enter Your Discord Bot token**:
 
 3. **Configure the script**:
    - You’ll be prompted to input:
